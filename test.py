@@ -1,17 +1,5 @@
-def dale():
-    print('dale')
-
-
-
-
-
-
-
-
-
-
-
-
+def test_pylint():
+    print('test')
 
 
 
